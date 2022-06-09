@@ -18,3 +18,8 @@
 .men li:hover{
     background-color: brown;
 }
+.fondo{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+}
