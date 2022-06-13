@@ -22,5 +22,6 @@ setInterval(() => {
     contador.innerHTML = random(1,45);
 }, 1000)
 
-
+// let divColor = document.getElementById();
+// divColor.style.background="red";
 
